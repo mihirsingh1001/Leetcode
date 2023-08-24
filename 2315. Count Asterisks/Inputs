@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "l|*e*et|c**o|*de|"
+Output: 2
+
+Example 2:
+Input: s = "iamprogrammer"
+Output: 0
+
+Example 3:
+Input: s = "yo|uar|e**|b|e***au|tifu|l"
+Output: 5
