@@ -31,6 +31,7 @@ class Solution {
             curr.next = node; // curr will point to that new node if we get
             curr = curr.next; // update the current every time
         }
+        
         return dummy.next; // return dummy.next bcz, we don't want the value we have consider in it intially!!
     }
 }
